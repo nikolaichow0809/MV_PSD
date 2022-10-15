@@ -1,2 +1,2 @@
 # MV_PSD
-Mean Variance analysis with prospect theory
+Mean Variance Analysis for Prospect Theory
